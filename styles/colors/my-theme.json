@@ -1,0 +1,56 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.7/theme.json",
+	"version": 3,
+	"title": "Couleur du thème",
+	"settings": {
+		"color": {
+			"palette": [
+                {
+                    "slug": "base",
+                    "name": "Base",
+                    "color": "pink"
+                },
+                {
+                    "slug": "base-2",
+                    "name": "Base 2",
+                    "color": "#F7F7F8"
+                },
+                {
+                    "slug": "base-3",
+                    "name": "Base 3",
+                    "color": "#FFFFFF"
+                },
+                {
+                    "slug": "contrast",
+                    "name": "Contrast",
+                    "color": "#313135"
+                },
+                {
+                    "slug": "contrast-2",
+                    "name": "Contrast 2",
+                    "color": "#312319"
+                },
+                {
+                    "slug": "contrast-3",
+                    "name": "Contrast 3",
+                    "color": "#27272A"
+                },
+                {
+                    "slug": "accent",
+                    "name": "Accent",
+                    "color": "#C6AA76"
+                },
+                {
+                    "slug": "accent-2",
+                    "name": "Accent-2",
+                    "color": "#B89257"
+                },
+                {
+                    "slug": "transparent",
+                    "name": "transparent",
+                    "color": "transparent"
+                }
+            ]
+		}
+	}
+}

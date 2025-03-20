@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "Bisous",
+  "content": "<!-- wp:media-text {\"mediaId\":21,\"mediaLink\":\"http://sub-theme.local/sannerville/\",\"mediaType\":\"image\",\"style\":{\"elements\":{\"link\":{\"color\":{\"text\":\"var:preset|color|contrast\"}}}},\"textColor\":\"contrast\"} -->\n<div class=\"wp-block-media-text is-stacked-on-mobile has-contrast-color has-text-color has-link-color\"><figure class=\"wp-block-media-text__media\"><img src=\"http://sub-theme.local/wp-content/uploads/2025/03/Sannerville-1024x689.png\" alt=\"\" class=\"wp-image-21 size-full\"/></figure><div class=\"wp-block-media-text__content\"><!-- wp:heading -->\n<h2 class=\"wp-block-heading\">Mon titre</h2>\n<!-- /wp:heading -->\n\n<!-- wp:paragraph -->\n<p>Ma description</p>\n<!-- /wp:paragraph --></div></div>\n<!-- /wp:media-text -->",
+  "syncStatus": "unsynced"
+}

@@ -1,0 +1,42 @@
+{
+	"settings": {
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFace": [
+						{
+							"fontDisplay": "swap",
+							"fontFamily": "tt-hoves-pro-trial",
+							"fontStyle": "auto",
+							"fontWeight": "100 900",
+							"src": [
+								"file:./assets/fonts/tt-hoves-pro-trial/tt-hoves-pro-trial-variable.woff2"
+							]
+						}
+					],
+					"fontFamily": "tt-hoves-pro-trial, sans-serif",
+					"name": "Tt-hoves-pro-trial",
+					"slug": "first"
+				},
+				{
+					"fontFace": [
+						{
+							"fontDisplay": "swap",
+							"fontFamily": "tt-hoves-pro-trial",
+							"fontStyle": "auto",
+							"fontWeight": "100 900",
+							"src": [
+								"file:./assets/fonts/tt-hoves-pro-trial/tt-hoves-pro-trial-variable.woff2"
+							]
+						}
+					],
+					"fontFamily": "tt-hoves-pro-trial, sans-serif",
+					"name": "Tt-hoves-pro-trial",
+					"slug": "second"
+				}
+			]
+		}
+	},
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.7/theme.json"
+}
