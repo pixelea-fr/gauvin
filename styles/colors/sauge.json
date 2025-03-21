@@ -1,0 +1,98 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.7/theme.json",
+	"version": 3,
+	"title": "Sauge",
+	"settings": {
+		"color": {
+            "palette": [
+              {
+                "slug": "base",
+                "name": "Base",
+                "color": "#F8FAF6"
+              },
+              {
+                "slug": "base-2",
+                "name": "Base 2",
+                "color": "#F6F9F5"
+              },
+              {
+                "slug": "base-3",
+                "name": "Base 3",
+                "color": "#FFFFFF"
+              },
+              {
+                "slug": "contrast",
+                "name": "Contrast",
+                "color": "#2E352A"
+              },
+              {
+                "slug": "contrast-2",
+                "name": "Contrast 2",
+                "color": "#28352B"
+              },
+              {
+                "slug": "contrast-3",
+                "name": "Contrast 3",
+                "color": "#2C332D"
+              },
+              {
+                "slug": "accent",
+                "name": "Accent",
+                "color": "#8AAD77"
+              },
+              {
+                "slug": "accent-2",
+                "name": "Accent-2",
+                "color": "#759B60"
+              },
+              {
+                "slug": "transparent",
+                "name": "transparent",
+                "color": "transparent"
+              }
+            ],
+            "duotone": [
+                {
+                    "name": "Base",
+                    "slug": "base",
+                    "colors": [ "transparent", "#F8FAF6" ]
+                },
+                {
+                    "name": "Base 2",
+                    "slug": "base-2",
+                    "colors": [ "transparent", "#F6F9F5" ]
+                },
+                {
+                    "name": "Base 3",
+                    "slug": "base-3",
+                    "colors": [ "transparent", "#FFFFFF" ]
+                },
+                {
+                    "name": "Contrast",
+                    "slug": "contrast",
+                    "colors": [ "transparent", "#2E352A" ]
+                },
+                {
+                    "name": "Contrast 2",
+                    "slug": "contrast-2",
+                    "colors": [ "transparent", "#28352B" ]
+                },
+                {
+                    "name": "Contrast 3",
+                    "slug": "contrast-3",
+                    "colors": [ "transparent", "#2C332D" ]
+                },
+                {
+                    "name": "Accent",
+                    "slug": "accent",
+                    "colors": [ "transparent", "#8AAD77" ]
+                },
+                {
+                    "name": "Accent 2",
+                    "slug": "accent-2",
+                    "colors": [ "transparent", "#759B60" ]
+                }
+            ]
+        }
+	}
+}
