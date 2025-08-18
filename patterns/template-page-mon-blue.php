@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Template Page Mon Blue
- * Slug: ng1-2025-subtheme-sample/template-page
+ * Title: Template Page Gauvin
+ * Slug: gauvin/template-page
  * Template Types: page,post, single
  * Block Types: core/post-content
  * Post Types: page

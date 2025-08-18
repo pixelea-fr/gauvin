@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: footer
- * Slug: ng1-2025-subtheme-sample/footer
+ * Slug: gauvin/footer
  * Inserter: no
  */
 ?>

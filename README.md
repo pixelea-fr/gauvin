@@ -1,10 +1,10 @@
-# NG1-2025 Sous-thème d'exemple
+# Gauvin - Thème WordPress
 
-Ce dépôt contient un exemple de sous-thème WordPress basé sur le thème parent NG1-2025. Il démontre comment étendre et personnaliser le thème parent tout en conservant sa structure et ses fonctionnalités de base.
+Ce dépôt contient le thème WordPress "Gauvin" basé sur le thème parent NG1-2025. Il étend et personnalise le thème parent tout en conservant sa structure et ses fonctionnalités de base.
 
 ## À propos
 
-Ce sous-thème est conçu pour servir d'exemple et de point de départ pour créer vos propres sous-thèmes basés sur NG1-2025. Il illustre les meilleures pratiques pour personnaliser un thème WordPress moderne utilisant l'édition de site complet (FSE).
+Ce thème "Gauvin" est basé sur NG1-2025 et utilise les meilleures pratiques pour personnaliser un thème WordPress moderne avec l'édition de site complet (FSE).
 
 ## Caractéristiques
 
@@ -17,7 +17,7 @@ Ce sous-thème est conçu pour servir d'exemple et de point de départ pour cré
 ## Structure du sous-thème
 
 ```
-ng1-2025-subtheme-sample/
+gauvin/
 ├── assets/                  # Ressources statiques (images, polices, etc.)
 ├── parts/                   # Parties de template personnalisées
 ├── patterns/                # Patterns de blocs personnalisés
@@ -36,7 +36,7 @@ ng1-2025-subtheme-sample/
 └── theme.json               # Configuration du thème (hérite du thème parent)
 ```
 
-## Comment utiliser ce sous-thème
+## Comment utiliser ce thème
 
 1. Assurez-vous que le thème parent NG1-2025 est installé dans votre WordPress
 2. Installez ce sous-thème comme n'importe quel thème WordPress

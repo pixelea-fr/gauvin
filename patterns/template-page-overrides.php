@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Template Page overrides
- * Slug: ng1-2025/template-page
+ * Slug: gauvin/template-page-overrides
  * Template Types: page,post, single
  * Block Types: core/post-content
  * Post Types: page
