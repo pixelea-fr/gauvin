@@ -1,0 +1,22 @@
+.section-with-grid-decal{
+   background-position: center right -90px;
+   background-repeat: no-repeat;
+   background-size: 807px 1107px !important;
+
+    background-position: center right -2vw;
+    background-repeat: no-repeat;
+    background-size: 48vw 90vw !important;
+    @include m(1024){
+     background-attachment: fixed;
+     .wp-block-spacer{
+        display: none;
+     }
+     .section-with-grid-decal__grid{
+        grid-template-columns: 50px 1fr  !important;
+        gap:.5rem;
+     }
+     .section-with-grid-decal__grid__container{
+        gap: 2.5rem !important;
+     }
+    }
+}

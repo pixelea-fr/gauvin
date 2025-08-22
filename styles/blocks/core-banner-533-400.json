@@ -1,0 +1,10 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "title": "533x400",
+    "slug": "533x400",
+    "blockTypes": ["core/cover"],
+    "styles": {
+      "css": "width: min(533px, calc(100vw - 3rem)); aspect-ratio: 533/400;"
+    }
+  }

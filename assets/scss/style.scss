@@ -1,5 +1,5 @@
 /*
-Theme Name: Mon blue
+Theme Name: GAUVIN
 Theme URI:
 Author:
 Author URI:
@@ -11,6 +11,32 @@ Version:
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Template: ng1-2025
-Text Domain: ng1-2025-subtheme-sample
+Text Domain: gauvin
 Tags:
 */
+@import "mixins";
+
+@import "section/grid-decal";
+
+.nowrap{
+    white-space: nowrap;
+}
+:where(.wp-site-blocks) > * {
+    margin-block-start: 0 !important;
+    margin-block-end: 0 !important;
+  }
+  
+.bg-image-200-345{
+    background-size: 200px 345px !important;
+}
+header.wp-block-template-part{
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    z-index: 10;
+
+}
+.bg-position-right{
+    background-position: center right;
+}

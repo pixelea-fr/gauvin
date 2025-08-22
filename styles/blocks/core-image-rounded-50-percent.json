@@ -1,0 +1,10 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 3,
+    "title": "Arrondie 50%",
+    "slug": "rounded-50-percent",
+    "blockTypes": ["core/image"],
+    "styles": {
+ 	"css" : "overflow:hidden;border-top-left-radius:220px; border-top-right-radius: 1.875rem; border-bottom-left-radius: 220px; border-bottom-right-radius:1.875rem;"
+    }
+}

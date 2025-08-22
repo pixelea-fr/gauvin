@@ -5,7 +5,7 @@
  * Template Types: page,post, single
  * Block Types: core/post-content
  * Post Types: page
- * Viewport width: 1400
+ * Viewport width: 4000px
  */
 ?>
 
